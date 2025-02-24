@@ -1,4 +1,4 @@
-SuperchainERC20 Starter Kit
+$SuperchainERC20 Starter Kit
 
 <details>
 <summary><h2>📑 Table of Contents</h2></summary>
